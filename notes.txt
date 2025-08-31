@@ -1,0 +1,9 @@
+Aneesh Ratnala
+CS 35L
+Assignment 6 notes.txt
+
+Created a local copy of randall-git.tgz.
+Note: Ran ls -a to verify existence of .gitignore here, as ls -a shows all files, including hidden ones.
+
+Added check function to Makefile. This is a simple check (making sure the output of "$ ./randall n" is indeed n bytes long).
+TDD (test-driven development)
